@@ -1,0 +1,360 @@
+{
+  "breakfast": [
+    {
+      "slug": "paper-boy",
+      "restaurant": "Paperboy ",
+      "url": "https://www.paperboyaustin.com/",
+      "image": "paper-boy.jpg",
+      "blurb": "Whenever your family comes to town, take them to Paperboy. The small but lively resturant is a great brunch spot for the food, drinks, and ambiance. While its always booked and busy, its worth the extra effort to plan ahead to make a stop here."
+    },
+    {
+      "slug": "desnudo",
+      "restaurant": "Desnudo ",
+      "url": "https://desnudocoffee.com/",
+      "image": "desnudo.jpg",
+      "blurb": "Some of the best coffee and the most kind staff in Austin. Their miso latte is a must-order when visiting either of their locations. I recommend ordering pick up, as they usually have a long (but fast moving) line. "
+    },
+    {
+      "slug": "two-hands",
+      "restaurant": "Two Hands",
+      "url": "https://www.twohandshospitality.com/location/two-hands-austin/",
+      "image": "two-hands.jpg",
+      "blurb": "The location and the food makes it perfect for when guests are in town and wanting to visit South Congress. I recommmend the b.e.k. roll and a brown sugar syrup latte when visiting, but any choice is a good one. Reservations are recommended here."
+    },
+    {
+      "slug": "sour-duck-market",
+      "restaurant": "Sour Duck Market",
+      "url": "https://www.sourduckmarket.com/",
+      "image": "sour-duck-market.jpg",
+      "blurb": "Close to UT campus, Odd Duck's sister resturant is the perfect casual breakfast or brunch spot. Their breakfast sandwich is one of the best and they also have a large assortment of pasteries as well. Easy spot for on the go, as reservations are not necessary."
+    },
+    {
+      "slug": "veracruz-all-natural",
+      "restaurant": "Veracruz All Natural",
+      "url": "https://veracruzallnatural.com/",
+      "image": "veracruz-all-natural.jpg",
+      "blurb": "Whenever in Austin, breakfast tacos are a must. Veracruz has some of the best and the location is right near Desnudo's downtown location so you can grab one of each while you are in the area!"
+    },
+    {
+      "slug": "swedish-hill",
+      "restaurant": "Swedish Hill",
+      "url": "https://www.swedishhillaustin.com/",
+      "image": "swedish-hill.jpg",
+      "blurb": "While arguably overpirced, Swedish Hills pastries and overall ambiance makes it an Austin morning favorite. Their cafe selection and food is all very high quality with a large variety of options for customers to chose from."
+    },
+    {
+      "slug": "civil-goat",
+      "restaurant": "Civil Goat",
+      "url": "https://www.civilgoat.com/",
+      "image": "civil-goat.jpg",
+      "blurb": "Another favorite coffee spot, Civil Goat has both drinks and food. Their acai bowls and avocado toast are nice light breakfast options to accompany their coffee. Another great option for a more on the go stop!"
+    },
+    {
+      "slug": "bird-bird-biscuit",
+      "restaurant": "Bird Bird Biscuit",
+      "url": "https://www.birdbirdbiscuit.com/",
+      "image": "bird-bird-biscuit.jpg",
+      "blurb": "Although more on the heavy side, Bird Bird Biscuits are delicous and decdanat. As a native Goergian, I approve their biscuits! Located in east Austin, it is not far from campus and downtown making it a convient option for you. "
+    }
+  ],
+  "lunch": [
+    {
+      "slug": "foodheads",
+      "restaurant": "Foodheads",
+      "url": "https://www.foodheads.com/",
+      "image": "foodheads.jpg",
+      "blurb": "Located close to UT, foodheads offers comforting soups and sandwiches everyday except Sundays. I always opt for a half sandwich and a cup of soup to get the best of both worlds. My favorite is Lami!"
+    },
+    {
+      "slug": "fresas",
+      "restaurant": "Fresas",
+      "url": "https://www.fresaschicken.com/",
+      "image": "fresas.jpg",
+      "blurb": "Perfect for larger groups, Fresa's is a reat Tex-Mex stop for all the Austin vibes and a large outdoor patio. A great option for large groups, they serve great chicken and tacos and is worth a stop on a sunny spring day."
+    },
+    {
+      "slug": "allday-pizza",
+      "restaurant": "Allday Pizza",
+      "url": "https://allday.pizza/",
+      "image": "allday-pizza.jpg",
+      "blurb": "Allday is serving up some slightly elevated traiditional slices in three locations across Austin. The cacio e pepe pizza and the vodka slice are the best, but I recommend going with a firend and trying as many as you can!"
+    },
+    {
+      "slug": "local-foods",
+      "restaurant": "Local Foods",
+      "url": "https://www.localfoodstexas.com/",
+      "image": "local-foods.jpg",
+      "blurb": "A Sunday to-go classic, the crunchy chicken sandwich is a lifesaving sandiwhc that puts Local Foods on the list. Filled with chips, poached chiekn, and a delciosu green stop it makes it worth the slightly high prices.   "
+    },
+    {
+      "slug": "kome",
+      "restaurant": "Kome",
+      "url": "https://www.kome-austin.com/miso/",
+      "image": "kome.jpg",
+      "blurb": "If you are looking for well-priced and high quality sushi, kome is the place to go. Their rolls are fresh, but still fun. My favorite is the spooky roll and the sunshine, but any of them are a solid choice. "
+    },
+    {
+      "slug": "home-slice ",
+      "restaurant": "Homeslice ",
+      "url": "https://homeslicepizza.com/",
+      "image": "home-slice .jpg",
+      "blurb": "An Austin classic, stop by their window on South Congress for a slice of one of their pies. My favorite order is actually the italaina sandwich. Nonetheless, Homeslice is a classic Austin pizza spot."
+    },
+    {
+      "slug": "lous",
+      "restaurant": "Lou's",
+      "url": "https://www.lousaustin.com/",
+      "image": "lous.jpg",
+      "blurb": "If you are looking for a sanwich, burger or salad look no further. The green chile burger is the top choice on the menu, but they also serve hearty salad for a more healthy option. The Lou's green sauce is a must with any fry or sandwich."
+    },
+    {
+      "slug": "joanns-fine-foods",
+      "restaurant": "Joann's Fine Foods ",
+      "url": "https://joannsaustin.com/",
+      "image": "joanns-fine-foods.jpg",
+      "blurb": "Another South Congress spot, Joanns Fine Foods has healthy Tex-Mex offerings that make it a great stop of your Austin days. The oudoor patio is my favorite spot to eat at for the Austin ambiance in addition to the food and location."
+    }
+  ],
+  "dinner": [
+    {
+      "slug": "patrizis",
+      "restaurant": "Patrizi's",
+      "url": "https://www.patrizis.com/",
+      "image": "patrizis.jpg",
+      "blurb": "Pasta in a food truck may sound unusual but Patrizi's knocks it out of the park and for a solid price. While the pasta is great, get some appetizers too. If you go on a weekend, get there early to avoid long lines."
+    },
+    {
+      "slug": "elizabeth-street-cafe",
+      "restaurant": "Elizabeth Street Cafe",
+      "url": "https://elizabethstreetcafe.com/",
+      "image": "elizabeth-street-cafe.jpg",
+      "blurb": "A great choice for a lively and falvorful dinner in Austin, Elizabeth Street cafe serves up the best elevated Viatnamese food.Their spicy chili wontons and spring rolls are must order appetizers. "
+    },
+    {
+      "slug": "uchi",
+      "restaurant": "Uchi ",
+      "url": "https://uchi.uchirestaurants.com/",
+      "image": "uchi.jpg",
+      "blurb": "An Austin classic that has blwon up and opened several locations in Texas and beyond, Uchi is on every list for a reason. Their service and food is top tier and worth it for a special celebration night. Their happy hour is also an excellent deal. "
+    },
+    {
+      "slug": "loro",
+      "restaurant": "Loro ",
+      "url": "https://www.loroeats.com/",
+      "image": "loro.jpg",
+      "blurb": "The owners of Uchi and Franklin's Barbeque knocked it out of the park with this asiain-inspired smokehouse. Anotehr retsurant with a wonderful outfoor area and great for large groups due to its counter service style, Loro is great for a weekend dinner."
+    },
+    {
+      "slug": "hestia",
+      "restaurant": "Hestia",
+      "url": "https://hestiaaustin.com/",
+      "image": "hestia.jpg",
+      "blurb": "A recent Michelin-star winner for a reason, Hestia is a smoke-forward sister retsurnat of Emmer and Rye. A great spot for special occasions, their pork chop is a must try."
+    },
+    {
+      "slug": "este",
+      "restaurant": "Este",
+      "url": "https://www.esteatx.com/",
+      "image": "este.jpg",
+      "blurb": "Suerte's seafood inspired twin, Este is a must try for Mexican. I love the fish tacos, but any dish is excellent. It is also worth it to make a stop in Bar Toti across from Este while waiting for your table. "
+    },
+    {
+      "slug": "bufalina",
+      "restaurant": "Bufalina ",
+      "url": "https://www.bufalinapizza.com/",
+      "image": "bufalina.jpg",
+      "blurb": "Try Bufaline if you are looking for a no-frills, more upscale pizza resturant. The place is small and does not take reserevation so be prepared to wait, but the pizza is worth it. "
+    },
+    {
+      "slug": "birdies",
+      "restaurant": "Birdie's ",
+      "url": "https://www.birdiesaustin.com/",
+      "image": "birdies.jpg",
+      "blurb": "This Austin resturant is make fine-dining food in a homey resturant. Their menu is constantly rotating and is small, so try as many things as possible while you are there! "
+    },
+    {
+      "slug": "discada",
+      "restaurant": "Discada",
+      "url": "https://www.discadatx.com/",
+      "image": "discada.jpg",
+      "blurb": "This food truck only sells one entree, the discada tacos, but it is worth it. They are the perfect blend of sweet, savory and spicy. All toppings are a must and order a side of elote as well to accompany the food.  "
+    },
+    {
+      "slug": "lin-asain-bar",
+      "restaurant": "Lin Asian Bar",
+      "url": "https://www.linasianbar.com/",
+      "image": "lin-asain-bar.jpg",
+      "blurb": "Located on West 6th, Lin is serving up delcious dim sum in a small house-turned-resturant. Try some of their famous soup dumplings for an appetizer and go for one of their entrees, like Kung Pao chicken as well."
+    }
+  ],
+  "map": [
+    {
+      "name": "Two Hands",
+      "address": "1011 S Congress Ave, Unit 170, Austin, TX 78704",
+      "latitude": 30.253498,
+      "longitude ": -97.74792,
+      "map location": "https://maps.apple.com/?address=1011%20S%20Congress%20Ave,%20Unit%20170,%20Austin,%20TX%2078704,%20United%20States&auid=9432268543685490926&ll=30.253498,-97.747920&lsp=9902&q=Two%20Hands"
+    },
+    {
+      "name": "Sour Duck Market",
+      "address": "1814 E Martin Luther King Jr Blvd, Austin, TX  78702",
+      "latitude": 30.279858,
+      "longitude ": -97.721672,
+      "map location": "https://maps.apple.com/?address=1814%20E%20Martin%20Luther%20King%20Jr%20Blvd,%20Austin,%20TX%20%2078702,%20United%20States&auid=972845469042278372&ll=30.279882,-97.721681&lsp=9902&q=Sour%20Duck%20Market"
+    },
+    {
+      "name": "Veracruz All Natural",
+      "address": "111 E Cesar Chavez, Austin, TX 78701",
+      "latitude": 30.26298,
+      "longitude ": -97.74452,
+      "map location": "https://maps.apple.com/?address=111%20E%20Cesar%20Chavez,%20Austin,%20TX%2078701,%20United%20States&auid=18029215925993112978&ll=30.262945,-97.744427&lsp=9902&q=Veracruz%20All%20Natural"
+    },
+    {
+      "name": "Swedish Hill",
+      "address": "1128 W 6th St, Austin, TX  78703",
+      "latitude": 30.272761,
+      "longitude ": -97.756813,
+      "map location": "https://maps.apple.com/?address=1128%20W%206th%20St,%20Austin,%20TX%20%2078703,%20United%20States&auid=1783659314771292442&ll=30.272761,-97.756813&lsp=9902&q=Swedish%20Hill"
+    },
+    {
+      "name": "Civil Goat",
+      "address": "3423 Guadalupe St, Austin, TX  78705",
+      "latitude": 30.300936,
+      "longitude ": -97.739103,
+      "map location": "https://maps.apple.com/?address=3423%20Guadalupe%20St,%20Austin,%20TX%20%2078705,%20United%20States&auid=14019012379996866753&ll=30.300959,-97.739081&lsp=9902&q=Civil%20Goat%20Coffee%20Co"
+    },
+    {
+      "name": "Bird Bird Biscuit",
+      "address": "2701 Manor Rd, Austin, TX  78722",
+      "latitude": 30.284972,
+      "longitude ": -97.713996,
+      "map location": "https://maps.apple.com/?address=2701%20Manor%20Rd,%20Austin,%20TX%20%2078722,%20United%20States&auid=10479801135942394424&ll=30.284972,-97.713996&lsp=9902&q=Bird%20Bird%20Biscuit"
+    },
+    {
+      "name": "Foodheads",
+      "address": "616 W 34th St, Austin, TX  78705",
+      "latitude": 30.300838,
+      "longitude ": -97.740374,
+      "map location": "https://maps.apple.com/?address=616%20W%2034th%20St,%20Austin,%20TX%20%2078705,%20United%20States&auid=13572472268477643857&ll=30.300867,-97.740336&lsp=9902&q=FoodHeads"
+    },
+    {
+      "name": "Fresas",
+      "address": "1703 S 1st St, Austin, TX  78704",
+      "latitude": 30.247793,
+      "longitude ": -97.755253,
+      "map location": "https://maps.apple.com/?address=1703%20S%201st%20St,%20Austin,%20TX%20%2078704,%20United%20States&auid=9231638493756984242&ll=30.247793,-97.755253&lsp=9902&q=Fresa's"
+    },
+    {
+      "name": "Allday Pizza",
+      "address": "3111 W 35th St, Austin, TX 78703",
+      "latitude": 30.306998,
+      "longitude ": -97.729935,
+      "map location": "https://maps.apple.com/?address=4300%20Speedway,%20Unit%20103,%20Austin,%20TX%20%2078751,%20United%20States&auid=16497053932654498279&ll=30.306998,-97.729935&lsp=9902&q=Allday%20Pizza"
+    },
+    {
+      "name": "Local Foods",
+      "address": "454 W 2nd St, Austin, TX 78701",
+      "latitude": 30.265719,
+      "longitude ": -97.748593,
+      "map location": "https://maps.apple.com/?address=454%20W%202nd%20St,%20Austin,%20TX%20%2078701,%20United%20States&auid=576162794441005742&ll=30.265698,-97.748565&lsp=9902&q=Local%20Foods"
+    },
+    {
+      "name": "Kome",
+      "address": "5301 Airport Blvd #100",
+      "latitude": 30.313992,
+      "longitude ": -97.714622,
+      "map location": "https://maps.apple.com/?address=5301%20Airport%20Blvd,%20Austin,%20TX%20%2078751,%20United%20States&auid=13014958048342978400&ll=30.314017,-97.714587&lsp=9902&q=Kome"
+    },
+    {
+      "name": "Homeslice ",
+      "address": "1421 S Congress Ave, Austin, TX 78704",
+      "latitude": 30.249226,
+      "longitude ": -97.749632,
+      "map location": "https://maps.apple.com/?address=1421%20S%20Congress%20Ave,%20Austin,%20TX%20%2078704,%20United%20States&auid=18235006462176946576&ll=30.249206,-97.749508&lsp=9902&q=Home%20Slice%20Pizza"
+    },
+    {
+      "name": "Lou's",
+      "address": "1608 Barton Springs Rd, Austin, TX 78704",
+      "latitude": 30.262379,
+      "longitude ": -97.761755,
+      "map location": "https://maps.apple.com/?address=1608%20Barton%20Springs%20Rd,%20Austin,%20TX%20%2078704,%20United%20States&auid=11190102424349797215&ll=30.262388,-97.761698&lsp=9902&q=Lou's"
+    },
+    {
+      "name": "Joann's Fine Foods ",
+      "address": "1224 S Congress Ave, Austin, TX 78704",
+      "latitude": 30.251579,
+      "longitude ": -97.749125,
+      "map location": "https://maps.apple.com/?address=1224%20S%20Congress%20Ave,%20Austin,%20TX%20%2078704,%20United%20States&auid=5823981870320773769&ll=30.251587,-97.749205&lsp=9902&q=Joann's%20Fine%20Foods"
+    },
+    {
+      "name": "Patrizi's",
+      "address": "2307 Manor Rd, Austin, TX 78722",
+      "latitude": 30.283931,
+      "longitude ": -97.717258,
+      "map location": "https://maps.apple.com/?address=2307%20Manor%20Rd,%20Austin,%20TX%2078722,%20United%20States&auid=4506557329278626444&ll=30.283931,-97.717258&lsp=9902&q=Patrizi's"
+    },
+    {
+      "name": "Elizabeth Street Cafe",
+      "address": "1501 S 1st St, Austin, TX 78704",
+      "latitude": 30.249821,
+      "longitude ": -97.754755,
+      "map location": "https://maps.apple.com/?address=1501%20S%201st%20St,%20Austin,%20TX%20%2078704,%20United%20States&auid=6818740736092366551&ll=30.249794,-97.754657&lsp=9902&q=Elizabeth%20Street%20Caf%C3%A9"
+    },
+    {
+      "name": "Uchi ",
+      "address": "801 S Lamar Blvd, Austin, TX 78704",
+      "latitude": 30.257515,
+      "longitude ": -97.759765,
+      "map location": "https://maps.apple.com/?address=801%20South%20Lamar%20Blvd,%20Austin,%20TX%2078704,%20United%20States&auid=3353655706099612837&ll=30.257515,-97.759765&lsp=9902&q=Uchi"
+    },
+    {
+      "name": "Loro ",
+      "address": "2115 S Lamar Blvd, Austin, TX 78704",
+      "latitude": 30.247773,
+      "longitude ": -97.771406,
+      "map location": "https://maps.apple.com/?address=2115%20S%20Lamar%20Blvd,%20Austin,%20TX%2078704,%20United%20States&auid=18011793103888983868&ll=30.247773,-97.771406&lsp=9902&q=Loro"
+    },
+    {
+      "name": "Hestia",
+      "address": "607 W 3rd St #105, Austin, TX 78701",
+      "latitude": 30.266721,
+      "longitude ": -97.74997,
+      "map location": "https://maps.apple.com/?address=607%20W%203rd%20St,%20Unit%20105,%20Austin,%20TX%20%2078701,%20United%20States&auid=2094554638017378196&ll=30.266721,-97.749970&lsp=9902&q=Hestia"
+    },
+    {
+      "name": "Este",
+      "address": "2113 Manor Rd, Austin, TX 78722",
+      "latitude": 30.284095,
+      "longitude ": -97.719561,
+      "map location": "https://maps.apple.com/?address=2113%20Manor%20Rd,%20Austin,%20TX%20%2078722,%20United%20States&auid=1432121713845220246&ll=30.283998,-97.719555&lsp=9902&q=Este"
+    },
+    {
+      "name": "Bufalina ",
+      "address": "2215 E Cesar Chavez St, Austin, TX 78702",
+      "latitude": 30.255138,
+      "longitude ": -97.719654,
+      "map location": "https://maps.apple.com/?address=2215%20E%20Cesar%20Chavez%20St,%20Austin,%20TX%20%2078702,%20United%20States&auid=12922941489333698238&ll=30.255138,-97.719654&lsp=9902&q=Bufalina"
+    },
+    {
+      "name": "Birdie's ",
+      "address": "2944 E 12th St Unit A, Austin, TX 78702",
+      "latitude": 30.276407,
+      "longitude ": -97.704472,
+      "map location": "https://maps.apple.com/?address=2944%20E%2012th%20St,%20Unit%20A,%20Austin,%20TX%2078702,%20United%20States&auid=4350284502031699449&ll=30.276403,-97.704483&lsp=9902&q=Birdie%E2%80%99s"
+    },
+    {
+      "name": "Discada",
+      "address": "1319 Rosewood Ave, Austin, TX 78702",
+      "latitude": 30.268571,
+      "longitude ": -97.724638,
+      "map location": "https://maps.apple.com/?address=1319%20Rosewood%20Ave,%20Austin,%20TX%20%2078702,%20United%20States&auid=16056433766401340286&ll=30.268571,-97.724638&lsp=9902&q=Discada"
+    },
+    {
+      "name": "Lin Asian Bar",
+      "address": "1203 W 6th St, Austin, TX 78703",
+      "latitude": 30.272906,
+      "longitude ": -97.757981,
+      "map location": "https://maps.apple.com/?address=1203%20W%206th%20St,%20Austin,%20TX%20%2078703,%20United%20States&auid=10460568491297011385&ll=30.272814,-97.758011&lsp=9902&q=Lin%20Asian%20Bar%20+%20Dim%20Sum%20Restaurant"
+    }
+  ]
+}
