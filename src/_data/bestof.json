@@ -18,8 +18,7 @@
     {
       "category": "Best Bakery",
       "price": "$$",
-      "name": "Swedish Hill",
-      "link": ""
+      "name": "Swedish Hill"
     },
     {
       "category": "Best Burger",
@@ -29,17 +28,17 @@
     {
       "category": "Best Sandwich",
       "price": "$$",
-      "Name": "Local Foods"
+      "name": "Local Foods"
     },
     {
       "category": "Best Taco",
       "price": "$",
-      "Name": "Discada"
+      "name": "Discada"
     },
     {
       "category": "Best Sushi",
       "price": "$$$",
-      "Name": "Uchi"
+      "name": "Uchi"
     }
   ]
 }
