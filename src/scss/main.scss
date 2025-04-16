@@ -23,14 +23,33 @@
 @import "jumbotron";
 
 // Custom styles 
-h1 { 
+h1, h2, h3, h4, h5 { 
   font-family: "Caprasimo", serif;
   font-weight: 400;
   font-style: normal;
-  text-decoration-color: #f1ead0;
-
+  color: #097d4c;
 }
 
 h3 {
   font-size: 1.5rem;
 }
+
+.content {
+  background-color: #f1ead0;
+  font-family: "Roboto", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+  font-variation-settings:
+  "wdth" 100;
+  }  
+
+  .card {
+    background-color: #097d4c;
+    color: #f1ead0;
+  }
+
+  .btn {
+    background-color: #f1ead0;
+    color: #097d4c;
+  }
+
