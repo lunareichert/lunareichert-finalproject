@@ -1,0 +1,45 @@
+{
+  "bests": [
+    {
+      "category": "Best Coffee",
+      "price": "$",
+      "name": "Desnudo"
+    },
+    {
+      "category": "Best Breakfast Taco",
+      "price": "$",
+      "name": "Veracruz"
+    },
+    {
+      "category": "Best Breakfast Sandwich",
+      "price": "$$",
+      "name": "Sour Duck Market"
+    },
+    {
+      "category": "Best Bakery",
+      "price": "$$",
+      "name": "Swedish Hill",
+      "link": ""
+    },
+    {
+      "category": "Best Burger",
+      "price": "$",
+      "name": "Jewboy Burgers"
+    },
+    {
+      "category": "Best Sandwich",
+      "price": "$$",
+      "Name": "Local Foods"
+    },
+    {
+      "category": "Best Taco",
+      "price": "$",
+      "Name": "Discada"
+    },
+    {
+      "category": "Best Sushi",
+      "price": "$$$",
+      "Name": "Uchi"
+    }
+  ]
+}

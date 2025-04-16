@@ -9,6 +9,20 @@
       "fileId": "1H-tQ_Cqj2uA_8zZstp5Btk9w_hgbwxnngSLiQuVluyU",
       "type": "sheet",
       "name": "lists"
+    },
+    {
+      "fileId": "1gXOQx5nzWg_LDFJ3MhhUoTAKPbpMPcYCFOCWMmavNRA",
+      "type": "doc",
+      "name": "food-blog"
+    }
+  ],
+  "to_bake": [
+    {
+      "template": "bake-blogs",
+      "data": "blog",
+      "array": "blogs",
+      "slug": "slug",
+      "path": "blog"
     }
   ]
 }

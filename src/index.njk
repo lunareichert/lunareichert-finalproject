@@ -69,4 +69,28 @@
   </div> 
 </div>
 
+<div class="container text-center">
+   <div class="row justify-content-center mt-4">
+    <div class="col col-sm-12 col-md-9 col-lg-9">
+        <h2> All of the Best </h2>
+    </div>
+  </div>
+</div>
+
+<div class="container-fluid text-center mt-4">
+<div class="row justify content center row-cols-1 row-cols-md-3 row-col-lg-6 g-4"> 
+  {% for restaurant in lists.stops %}
+  <div class="col">
+    <div class="card">
+      <img src="img/{{ restaurant.slug }}.jpg" class="card-img-top" alt="...">
+      <div class="card-body">
+        <h5 class="card-title">{{ restaurant.restaurant }}</h5>
+        <a href="{{ restaurant.url }}" class="btn btn-success">Check out the website</a>
+      </div>
+    </div>
+  </div> 
+{% endfor %}
+</div>
+</div>
+
 {% endblock %}

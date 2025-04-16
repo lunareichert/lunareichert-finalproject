@@ -1,0 +1,63 @@
+{
+  "blogs": [
+    {
+      "slug": "2019-10-18",
+      "Headline": "What makes a good breakfast spot?",
+      "post": [
+        {
+          "type": "text",
+          "value": "When I am looking for the best breakfast, there are a few things I am looking for. First of all, I am looking at their beverages. As an avid coffee drinker, it is essential that they not only serve quality coffee but also have some fun and unique flavor options available. I typically stick with plain and simple coffee, but when I am going out for breakfast, I want to spend a little extra to get a fun drink."
+        },
+        {
+          "type": "text",
+          "value": "The second thing I am looking for is a solid breakfast sandwich. I enjoy savory breakfasts much more than sweet breakfasts. While I always like to make sure the menu is balanced and has options for both, I always opt for savory. The breakfast sandwich is the perfect choice to evaluate the quality of a restaurant in one, complete bite."
+        },
+        {
+          "type": "text",
+          "value": "I also tend to favor places that serve fulfilling food, but nothing that leaves me feeling heavy, like I have a pit in my stomach at the end. I also don’t enjoy going anywhere too fancy in the morning, so I prefer places that are more of a casual vibe."
+        }
+      ]
+    },
+    {
+      "slug": "2019-10-19",
+      "Headline": "What makes a good lunch spot?",
+      "post": [
+        {
+          "type": "text",
+          "value": "I love lunch, especially on a weekend when you get to enjoy it more and it's less of a check off a list. Similar to breakfast, I think a sandwich is one of the best lunch foods. However, I usually prefer a sandwich on a busy day and something a bit more complex on a weekend."
+        },
+        {
+          "type": "text",
+          "value": "Location is important for lunch stops. Some of my favorite spots are located in popular Austin areas like South Congress, which make them easy and delicious stops during a busy weekend day. Joann’s Fine Foods and Homeslice are two classic and fun stops for a weekend afternoon on SoCo. I love Homeslice for the walk-up window, which makes it a perfect Austin lunch spot."
+        },
+        {
+          "type": "text",
+          "value": "I also look at ambiance and design. All-Day Pizza and Homeslice both have walk-up windows with extensive outdoor seating, which makes it a fast and fun stop to enjoy Austin weather. Fresa’s is also a wonderful spot for the Austin vibe, with Tex-Mex and a large outdoor patio good for big groups."
+        }
+      ]
+    },
+    {
+      "slug": "2019-10-20",
+      "headline": "What makes a good dinner spot?",
+      "image": "kraken03.jpg",
+      "post": [
+        {
+          "type": "text",
+          "value": "My interest in food really stems from my mom's and I’s adventures trying restaurants when on vacation. Dinners were always a focal part of our stay, which got planned many weeks in advance, so dinner stops are important to me. When looking for a good dinner spot, there are several things I consider. I look at service, obviously taste, ambiance, and the strength of their dessert menu. I also like diversity, so my list includes some more fancy options for special occasions as well as casual stops. It's all about balance, as they say."
+        },
+        {
+          "type": "text",
+          "value": "In terms of service, that is essential when evaluating a dinner restaurant. I love a place that not only makes you feel like a valued patron but also a friend. My mom and I recently went to Birdie’s when she was in town, and they chatted about Phish and the Grateful Dead with her as if she were a regular, despite her living in Georgia and only visiting on occasion. Service kind of goes along with ambiance. I want a curated vibe that makes me feel comfortable."
+        },
+        {
+          "type": "text",
+          "value": "Taste is an obvious one. I am not putting anyone on here who I think makes bad food. However, as someone who always opts for dessert, I am looking for a strong and innovative dessert menu (if offered). I want to feel like dessert is not an afterthought, because sometimes it's the best part of my meal. For example, Uchi’s chocolate bar dessert never disappoints or feels like it misses the mark, even after the wonderful meal."
+        },
+        {
+          "type": "text",
+          "value": "I always look for restaurants that have a solid outdoor option. Austin in the spring and fall is some of my favorite times of the year, and I love the option to eat outside and enjoy the warmer weather."
+        }
+      ]
+    }
+  ]
+}
