@@ -108,7 +108,7 @@
       "slug": "home-slice",
       "restaurant": "Homeslice ",
       "url": "https://homeslicepizza.com/",
-      "image": "home-slice.jpg",
+      "image": "home-slice .jpg",
       "blurb": "An Austin classic, stop by their window on South Congress for a slice of one of their pies. My favorite order is actually the italaina sandwich. Nonetheless, Homeslice is a classic Austin pizza spot.",
       "category": "lunch"
     },
@@ -321,7 +321,7 @@
       "map location": "https://maps.apple.com/?address=5301%20Airport%20Blvd,%20Austin,%20TX%20%2078751,%20United%20States&auid=13014958048342978400&ll=30.314017,-97.714587&lsp=9902&q=Kome"
     },
     {
-      "name": "Homeslice ",
+      "name": "Homeslice",
       "address": "1421 S Congress Ave",
       "city": "Austin",
       "state": "TX",

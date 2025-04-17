@@ -1,8 +1,9 @@
 {
   "blogs": [
     {
-      "slug": "breakfast",
+      "slug": "breakfastblog",
       "headline": "What makes a good breakfast spot?",
+      "image": "breakfast_icon.jpg",
       "post": [
         {
           "type": "text",
@@ -19,8 +20,9 @@
       ]
     },
     {
-      "slug": "lunch",
+      "slug": "lunchblog",
       "headline": "What makes a good lunch spot?",
+      "image": "lunch_icon.jpg",
       "post": [
         {
           "type": "text",
@@ -37,9 +39,9 @@
       ]
     },
     {
-      "slug": "dinner",
+      "slug": "dinnerblog",
       "headline": "What makes a good dinner spot?",
-      "image": "kraken03.jpg",
+      "image": "dinner_icon.jpg",
       "post": [
         {
           "type": "text",
