@@ -23,6 +23,13 @@
       "array": "blogs",
       "slug": "slug",
       "path": "blog"
+    },
+    {
+      "template": "bake-blogs",
+      "data": "lists",
+      "array": "stops",
+      "slug": "slug",
+      "path": "restaurant"
     }
   ]
 }

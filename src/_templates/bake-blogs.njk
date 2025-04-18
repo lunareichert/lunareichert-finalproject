@@ -7,14 +7,37 @@
 {% block page_description %}{{ headline }}{% endblock %}
 
 {% block content %}
+  
   <article class="container">
     <div class="row">
+      <div class="col-sm-4">
+        <img src="../img/{{ image }}" alt="meal icon" class="img-fluid">
+        <hr class="d-sm-none">
+      </div>
       <div class="col-sm-8">
-        <img src="../img/{{ image }}" alt="" class="img-fluid mb-4">
         <h1>{{ headline }}</h1>
         {{ prose(post) }}
       </div>
     </div>
   </article>
+
+<div class="container">
+ <div class="row justify-content-center row-cols-1 row-cols-md-2 g-4">
+ {% for restaurant in lists.stops %}
+  {% if restaurant.category == slug %}
+    <div class="col">
+      <div class="card">
+        <img src="../img/{{ restaurant.slug }}.jpg" class="card-img-top" alt="...">
+        <div class="card-body">
+          <h5 class="card-title">{{ restaurant.restaurant }}</h5>
+          <p class="card-text">{{ restaurant.blurb }}</p>
+          <a href="{{ restaurant.url }}" class="btn btn-success">Check out the website</a>
+        </div>
+      </div>
+    </div>
+  {% endif %}
+{% endfor %}
+</div>
+</div>
 
 {% endblock %}
