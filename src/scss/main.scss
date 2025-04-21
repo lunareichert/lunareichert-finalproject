@@ -1,56 +1,10 @@
-// Custom variable overrides
-// See node_modules/bootstrap/scss/_variables.scss
+$primary-color: #097d4c;
+$secondary-color: #f1ead0;
 
-// $body-bg: black;
-// $body-color: white;
-// $link-hover-color: grey;
-// $font-family-sans-serif: "Helvetica Neue";
-
-/* bootstrap */
-// Option A: Include all of Bootstrap
 @import '../../node_modules/bootstrap/scss/bootstrap';
-
-// Option B: Include parts of Bootstrap
-// See https://getbootstrap.com/docs/4.1/getting-started/theming/#importing
-
-// Required
-// @import "../../node_modules/bootstrap/scss/functions";
-// @import "../../node_modules/bootstrap/scss/variables";
-// @import "../../node_modules/bootstrap/scss/mixins";
-
-// Import partials
 @import 'nav';
 @import 'jumbotron';
 @import 'footer';
-
-// Custom styles 
-h1, h2, h3, h4, h5 { 
-  font-family: "Caprasimo", serif;
-  font-weight: 400;
-  font-style: normal;
-  color: #097d4c;
-}
-
-h3 {
-  font-size: 1.5rem;
-}
-
-.content {
-  background-color: #f1ead0;
-  font-family: "Roboto", sans-serif;
-  font-optical-sizing: auto;
-  font-style: normal;
-  font-variation-settings:
-  "wdth" 100;
-  }  
-
-  .card {
-    background-color: #097d4c;
-    color: #f1ead0;
-  }
-
-  .btn {
-    background-color: #f1ead0;
-    color: #097d4c;
-  }
+@import 'base';
+@import 'content';
 
