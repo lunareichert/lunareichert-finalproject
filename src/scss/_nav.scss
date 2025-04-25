@@ -2,11 +2,18 @@
   background-color: #f1ead0;
 }
 
-.nav-item, .navbar-brand {
+.nav-item, .navbar-brand, .nav-link {
   font-family: "Caprasimo", serif;
   font-weight: 400;
   font-style: normal;
   color: #097d4c;
 }
 
+.dropdown-item {
+  color: #097d4c;
+}
 
+a {
+  text-decoration: none;
+  color: #097d4c;
+}

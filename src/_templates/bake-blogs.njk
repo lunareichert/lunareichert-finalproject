@@ -10,23 +10,23 @@
   
   <article class="container">
     <div class="row">
-      <div class="col-sm-4">
+      <div class="col-sm-4 mt-4">
         <img src="../img/{{ image }}" alt="meal icon" class="img-fluid">
         <hr class="d-sm-none">
       </div>
-      <div class="col-sm-8">
+      <div class="col-sm-8 mt-4">
         <h1>{{ headline }}</h1>
         {{ prose(post) }}
       </div>
     </div>
   </article>
 
-<div class="container">
- <div class="row justify-content-center row-cols-1 row-cols-md-2 g-4">
+<div class="container ">
+ <div class="row justify-content-center row-cols-1 row-cols-md-2 g-4 mt-4">
  {% for restaurant in lists.stops %}
   {% if restaurant.category == slug %}
     <div class="col">
-      <div class="card">
+      <div class="card h-100">
         <img src="../img/{{ restaurant.slug }}.jpg" class="card-img-top" alt="...">
         <div class="card-body">
           <h5 class="card-title">{{ restaurant.restaurant }}</h5>
